@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/SwiftUI-FF69B4?style=flat-square&logo=SwiftUI&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Combine-FF69B4?style=flat-square&logo=Combine&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Alamofire-CC342D?style=flat-square&logo=Alamofire&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
