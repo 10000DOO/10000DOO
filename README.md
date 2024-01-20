@@ -33,7 +33,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="mailto:gunjoun99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gunjoun99@gmail.com"/></a>
-  <a href="https://www.linkedin.com/in/건준-이-10000doo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/건준-이-10000doo/(https://www.linkedin.com/in/yourlinkedin/)"/></a>
+  <a href="https://www.linkedin.com/in/건준-이-10000doo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.rocketpunch.com/@gunjoun99"><img src="https://img.shields.io/badge/RocketPunch-23036A?style=flat-square&logo=Rockrms&logoColor=white"/></a>
 </p>
 
