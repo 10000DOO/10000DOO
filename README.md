@@ -48,6 +48,6 @@
 </p>
 
 
-[![10000DOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/10000DOO/10000DOO)
+![10000DOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=10000DOO&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F10000DOO&count_bg=%236BA5F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
